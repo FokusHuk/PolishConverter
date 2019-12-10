@@ -1,0 +1,7 @@
+C:\Users\Ilya Axenov\source\repos\PolishNotation\PolishNotation\bin\Debug\PolishNotation.exe.config
+C:\Users\Ilya Axenov\source\repos\PolishNotation\PolishNotation\bin\Debug\PolishNotation.exe
+C:\Users\Ilya Axenov\source\repos\PolishNotation\PolishNotation\bin\Debug\PolishNotation.pdb
+C:\Users\Ilya Axenov\source\repos\PolishNotation\PolishNotation\obj\Debug\PolishNotation.csproj.CoreCompileInputs.cache
+C:\Users\Ilya Axenov\source\repos\PolishNotation\PolishNotation\obj\Debug\PolishNotation.exe
+C:\Users\Ilya Axenov\source\repos\PolishNotation\PolishNotation\obj\Debug\PolishNotation.pdb
+C:\Users\Ilya Axenov\source\repos\PolishNotation\PolishNotation\obj\Debug\PolishNotation.csprojAssemblyReference.cache
